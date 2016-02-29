@@ -51,3 +51,8 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+body {
+  @include background(linear-gradient(red, green) left repeat);
+}
