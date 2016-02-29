@@ -22,4 +22,4 @@ markdown: kramdown
 
 
 # Plugins
-gems: [github-pages, bourbon]
+gems: [github-pages]
